@@ -30,6 +30,18 @@ MyProj/
 
 ## Setup
 
+### Navigate to Project Directory
+
+**Important**: All project files and scripts are located in the `MyProj` directory. Before running any commands, navigate to this directory:
+
+```bash
+cd MyProj
+```
+
+All subsequent commands in this README should be run from the `MyProj` directory.
+
+---
+
 ### System Requirements
 
 - Python 3.8 or higher

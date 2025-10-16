@@ -1,0 +1,1154 @@
+[
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "urllib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib",
+        "description": "urllib",
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "version",
+        "importPath": "packaging",
+        "description": "packaging",
+        "isExtraImport": true,
+        "detail": "packaging",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Compose",
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "isExtraImport": true,
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "Resize",
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "isExtraImport": true,
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "CenterCrop",
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "isExtraImport": true,
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "ToTensor",
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "isExtraImport": true,
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "Normalize",
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "isExtraImport": true,
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "gzip",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gzip",
+        "description": "gzip",
+        "detail": "gzip",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "html",
+        "description": "html",
+        "detail": "html",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "ftfy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ftfy",
+        "description": "ftfy",
+        "detail": "ftfy",
+        "documentation": {}
+    },
+    {
+        "label": "regex",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "regex",
+        "description": "regex",
+        "detail": "regex",
+        "documentation": {}
+    },
+    {
+        "label": "clip",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "clip",
+        "description": "clip",
+        "detail": "clip",
+        "documentation": {}
+    },
+    {
+        "label": "open_clip",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "open_clip",
+        "description": "open_clip",
+        "detail": "open_clip",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_recall_fscore_support",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "tokenize",
+        "importPath": "clip.clip",
+        "description": "clip.clip",
+        "isExtraImport": true,
+        "detail": "clip.clip",
+        "documentation": {}
+    },
+    {
+        "label": "load",
+        "importPath": "clip.clip",
+        "description": "clip.clip",
+        "isExtraImport": true,
+        "detail": "clip.clip",
+        "documentation": {}
+    },
+    {
+        "label": "available_models",
+        "importPath": "clip.clip",
+        "description": "clip.clip",
+        "isExtraImport": true,
+        "detail": "clip.clip",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "pkg_resources",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pkg_resources",
+        "description": "pkg_resources",
+        "detail": "pkg_resources",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "available_models",
+        "kind": 2,
+        "importPath": "clip.clip",
+        "description": "clip.clip",
+        "peekOfCode": "def available_models() -> List[str]:\n    \"\"\"Returns the names of available CLIP models\"\"\"\n    return list(_MODELS.keys())\ndef load(name: str, device: Union[str, torch.device] = \"cuda\" if torch.cuda.is_available() else \"cpu\", jit: bool = False, download_root: str = None):\n    \"\"\"Load a CLIP model\n    Parameters\n    ----------\n    name : str\n        A model name listed by `clip.available_models()`, or the path to a model checkpoint containing the state_dict\n    device : Union[str, torch.device]",
+        "detail": "clip.clip",
+        "documentation": {}
+    },
+    {
+        "label": "load",
+        "kind": 2,
+        "importPath": "clip.clip",
+        "description": "clip.clip",
+        "peekOfCode": "def load(name: str, device: Union[str, torch.device] = \"cuda\" if torch.cuda.is_available() else \"cpu\", jit: bool = False, download_root: str = None):\n    \"\"\"Load a CLIP model\n    Parameters\n    ----------\n    name : str\n        A model name listed by `clip.available_models()`, or the path to a model checkpoint containing the state_dict\n    device : Union[str, torch.device]\n        The device to put the loaded model\n    jit : bool\n        Whether to load the optimized JIT model or more hackable non-JIT model (default).",
+        "detail": "clip.clip",
+        "documentation": {}
+    },
+    {
+        "label": "tokenize",
+        "kind": 2,
+        "importPath": "clip.clip",
+        "description": "clip.clip",
+        "peekOfCode": "def tokenize(texts: Union[str, List[str]], context_length: int = 77, truncate: bool = False) -> Union[torch.IntTensor, torch.LongTensor]:\n    \"\"\"\n    Returns the tokenized representation of given input string(s)\n    Parameters\n    ----------\n    texts : Union[str, List[str]]\n        An input string or a list of input strings to tokenize\n    context_length : int\n        The context length to use; all CLIP models use 77 as the context length\n    truncate: bool",
+        "detail": "clip.clip",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "clip.clip",
+        "description": "clip.clip",
+        "peekOfCode": "__all__ = [\"available_models\", \"load\", \"tokenize\"]\n_tokenizer = _Tokenizer()\n_MODELS = {\n    \"RN50\": \"https://openaipublic.azureedge.net/clip/models/afeb0e10f9e5a86da6080e35cf09123aca3b358a0c3e3b6c78a7b63bc04b6762/RN50.pt\",\n    \"RN101\": \"https://openaipublic.azureedge.net/clip/models/8fa8567bab74a42d41c5915025a8e4538c3bdbe8804a470a72f30b0d94fab599/RN101.pt\",\n    \"RN50x4\": \"https://openaipublic.azureedge.net/clip/models/7e526bd135e493cef0776de27d5f42653e6b4c8bf9e0f653bb11773263205fdd/RN50x4.pt\",\n    \"RN50x16\": \"https://openaipublic.azureedge.net/clip/models/52378b407f34354e150460fe41077663dd5b39c54cd0bfd2b27167a4a06ec9aa/RN50x16.pt\",\n    \"RN50x64\": \"https://openaipublic.azureedge.net/clip/models/be1cfb55d75a9666199fb2206c106743da0f6468c9d327f3e0d0a543a9919d9c/RN50x64.pt\",\n    \"ViT-B/32\": \"https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt\",\n    \"ViT-B/16\": \"https://openaipublic.azureedge.net/clip/models/5806e77cd80f8b59890b7e101eabd078d9fb84e6937f9e85e4ecb61988df416f/ViT-B-16.pt\",",
+        "detail": "clip.clip",
+        "documentation": {}
+    },
+    {
+        "label": "_tokenizer",
+        "kind": 5,
+        "importPath": "clip.clip",
+        "description": "clip.clip",
+        "peekOfCode": "_tokenizer = _Tokenizer()\n_MODELS = {\n    \"RN50\": \"https://openaipublic.azureedge.net/clip/models/afeb0e10f9e5a86da6080e35cf09123aca3b358a0c3e3b6c78a7b63bc04b6762/RN50.pt\",\n    \"RN101\": \"https://openaipublic.azureedge.net/clip/models/8fa8567bab74a42d41c5915025a8e4538c3bdbe8804a470a72f30b0d94fab599/RN101.pt\",\n    \"RN50x4\": \"https://openaipublic.azureedge.net/clip/models/7e526bd135e493cef0776de27d5f42653e6b4c8bf9e0f653bb11773263205fdd/RN50x4.pt\",\n    \"RN50x16\": \"https://openaipublic.azureedge.net/clip/models/52378b407f34354e150460fe41077663dd5b39c54cd0bfd2b27167a4a06ec9aa/RN50x16.pt\",\n    \"RN50x64\": \"https://openaipublic.azureedge.net/clip/models/be1cfb55d75a9666199fb2206c106743da0f6468c9d327f3e0d0a543a9919d9c/RN50x64.pt\",\n    \"ViT-B/32\": \"https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt\",\n    \"ViT-B/16\": \"https://openaipublic.azureedge.net/clip/models/5806e77cd80f8b59890b7e101eabd078d9fb84e6937f9e85e4ecb61988df416f/ViT-B-16.pt\",\n    \"ViT-L/14\": \"https://openaipublic.azureedge.net/clip/models/b8cca3fd41ae0c99ba7e8951adf17d267cdb84cd88be6f7c2e0eca1737a03836/ViT-L-14.pt\",",
+        "detail": "clip.clip",
+        "documentation": {}
+    },
+    {
+        "label": "_MODELS",
+        "kind": 5,
+        "importPath": "clip.clip",
+        "description": "clip.clip",
+        "peekOfCode": "_MODELS = {\n    \"RN50\": \"https://openaipublic.azureedge.net/clip/models/afeb0e10f9e5a86da6080e35cf09123aca3b358a0c3e3b6c78a7b63bc04b6762/RN50.pt\",\n    \"RN101\": \"https://openaipublic.azureedge.net/clip/models/8fa8567bab74a42d41c5915025a8e4538c3bdbe8804a470a72f30b0d94fab599/RN101.pt\",\n    \"RN50x4\": \"https://openaipublic.azureedge.net/clip/models/7e526bd135e493cef0776de27d5f42653e6b4c8bf9e0f653bb11773263205fdd/RN50x4.pt\",\n    \"RN50x16\": \"https://openaipublic.azureedge.net/clip/models/52378b407f34354e150460fe41077663dd5b39c54cd0bfd2b27167a4a06ec9aa/RN50x16.pt\",\n    \"RN50x64\": \"https://openaipublic.azureedge.net/clip/models/be1cfb55d75a9666199fb2206c106743da0f6468c9d327f3e0d0a543a9919d9c/RN50x64.pt\",\n    \"ViT-B/32\": \"https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt\",\n    \"ViT-B/16\": \"https://openaipublic.azureedge.net/clip/models/5806e77cd80f8b59890b7e101eabd078d9fb84e6937f9e85e4ecb61988df416f/ViT-B-16.pt\",\n    \"ViT-L/14\": \"https://openaipublic.azureedge.net/clip/models/b8cca3fd41ae0c99ba7e8951adf17d267cdb84cd88be6f7c2e0eca1737a03836/ViT-L-14.pt\",\n    \"ViT-L/14@336px\": \"https://openaipublic.azureedge.net/clip/models/3035c92b350959924f9f00213499208652fc7ea050643e8b385c2dac08641f02/ViT-L-14-336px.pt\",",
+        "detail": "clip.clip",
+        "documentation": {}
+    },
+    {
+        "label": "Bottleneck",
+        "kind": 6,
+        "importPath": "clip.model",
+        "description": "clip.model",
+        "peekOfCode": "class Bottleneck(nn.Module):\n    expansion = 4\n    def __init__(self, inplanes, planes, stride=1):\n        super().__init__()\n        # all conv layers have stride 1. an avgpool is performed after the second convolution when stride > 1\n        self.conv1 = nn.Conv2d(inplanes, planes, 1, bias=False)\n        self.bn1 = nn.BatchNorm2d(planes)\n        self.relu1 = nn.ReLU(inplace=True)\n        self.conv2 = nn.Conv2d(planes, planes, 3, padding=1, bias=False)\n        self.bn2 = nn.BatchNorm2d(planes)",
+        "detail": "clip.model",
+        "documentation": {}
+    },
+    {
+        "label": "AttentionPool2d",
+        "kind": 6,
+        "importPath": "clip.model",
+        "description": "clip.model",
+        "peekOfCode": "class AttentionPool2d(nn.Module):\n    def __init__(self, spacial_dim: int, embed_dim: int, num_heads: int, output_dim: int = None):\n        super().__init__()\n        self.positional_embedding = nn.Parameter(torch.randn(spacial_dim ** 2 + 1, embed_dim) / embed_dim ** 0.5)\n        self.k_proj = nn.Linear(embed_dim, embed_dim)\n        self.q_proj = nn.Linear(embed_dim, embed_dim)\n        self.v_proj = nn.Linear(embed_dim, embed_dim)\n        self.c_proj = nn.Linear(embed_dim, output_dim or embed_dim)\n        self.num_heads = num_heads\n    def forward(self, x):",
+        "detail": "clip.model",
+        "documentation": {}
+    },
+    {
+        "label": "ModifiedResNet",
+        "kind": 6,
+        "importPath": "clip.model",
+        "description": "clip.model",
+        "peekOfCode": "class ModifiedResNet(nn.Module):\n    \"\"\"\n    A ResNet class that is similar to torchvision's but contains the following changes:\n    - There are now 3 \"stem\" convolutions as opposed to 1, with an average pool instead of a max pool.\n    - Performs anti-aliasing strided convolutions, where an avgpool is prepended to convolutions with stride > 1\n    - The final pooling layer is a QKV attention instead of an average pool\n    \"\"\"\n    def __init__(self, layers, output_dim, heads, input_resolution=224, width=64):\n        super().__init__()\n        self.output_dim = output_dim",
+        "detail": "clip.model",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm",
+        "kind": 6,
+        "importPath": "clip.model",
+        "description": "clip.model",
+        "peekOfCode": "class LayerNorm(nn.LayerNorm):\n    \"\"\"Subclass torch's LayerNorm to handle fp16.\"\"\"\n    def forward(self, x: torch.Tensor):\n        orig_type = x.dtype\n        ret = super().forward(x.type(torch.float32))\n        return ret.type(orig_type)\nclass QuickGELU(nn.Module):\n    def forward(self, x: torch.Tensor):\n        return x * torch.sigmoid(1.702 * x)\nclass ResidualAttentionBlock(nn.Module):",
+        "detail": "clip.model",
+        "documentation": {}
+    },
+    {
+        "label": "QuickGELU",
+        "kind": 6,
+        "importPath": "clip.model",
+        "description": "clip.model",
+        "peekOfCode": "class QuickGELU(nn.Module):\n    def forward(self, x: torch.Tensor):\n        return x * torch.sigmoid(1.702 * x)\nclass ResidualAttentionBlock(nn.Module):\n    def __init__(self, d_model: int, n_head: int, attn_mask: torch.Tensor = None):\n        super().__init__()\n        self.attn = nn.MultiheadAttention(d_model, n_head)\n        self.ln_1 = LayerNorm(d_model)\n        self.mlp = nn.Sequential(OrderedDict([\n            (\"c_fc\", nn.Linear(d_model, d_model * 4)),",
+        "detail": "clip.model",
+        "documentation": {}
+    },
+    {
+        "label": "ResidualAttentionBlock",
+        "kind": 6,
+        "importPath": "clip.model",
+        "description": "clip.model",
+        "peekOfCode": "class ResidualAttentionBlock(nn.Module):\n    def __init__(self, d_model: int, n_head: int, attn_mask: torch.Tensor = None):\n        super().__init__()\n        self.attn = nn.MultiheadAttention(d_model, n_head)\n        self.ln_1 = LayerNorm(d_model)\n        self.mlp = nn.Sequential(OrderedDict([\n            (\"c_fc\", nn.Linear(d_model, d_model * 4)),\n            (\"gelu\", QuickGELU()),\n            (\"c_proj\", nn.Linear(d_model * 4, d_model))\n        ]))",
+        "detail": "clip.model",
+        "documentation": {}
+    },
+    {
+        "label": "Transformer",
+        "kind": 6,
+        "importPath": "clip.model",
+        "description": "clip.model",
+        "peekOfCode": "class Transformer(nn.Module):\n    def __init__(self, width: int, layers: int, heads: int, attn_mask: torch.Tensor = None):\n        super().__init__()\n        self.width = width\n        self.layers = layers\n        self.resblocks = nn.Sequential(*[ResidualAttentionBlock(width, heads, attn_mask) for _ in range(layers)])\n    def forward(self, x: torch.Tensor):\n        return self.resblocks(x)\nclass VisionTransformer(nn.Module):\n    def __init__(self, input_resolution: int, patch_size: int, width: int, layers: int, heads: int, output_dim: int):",
+        "detail": "clip.model",
+        "documentation": {}
+    },
+    {
+        "label": "VisionTransformer",
+        "kind": 6,
+        "importPath": "clip.model",
+        "description": "clip.model",
+        "peekOfCode": "class VisionTransformer(nn.Module):\n    def __init__(self, input_resolution: int, patch_size: int, width: int, layers: int, heads: int, output_dim: int):\n        super().__init__()\n        self.input_resolution = input_resolution\n        self.output_dim = output_dim\n        self.conv1 = nn.Conv2d(in_channels=3, out_channels=width, kernel_size=patch_size, stride=patch_size, bias=False)\n        scale = width ** -0.5\n        self.class_embedding = nn.Parameter(scale * torch.randn(width))\n        self.positional_embedding = nn.Parameter(scale * torch.randn((input_resolution // patch_size) ** 2 + 1, width))\n        self.ln_pre = LayerNorm(width)",
+        "detail": "clip.model",
+        "documentation": {}
+    },
+    {
+        "label": "CLIP",
+        "kind": 6,
+        "importPath": "clip.model",
+        "description": "clip.model",
+        "peekOfCode": "class CLIP(nn.Module):\n    def __init__(self,\n                 embed_dim: int,\n                 # vision\n                 image_resolution: int,\n                 vision_layers: Union[Tuple[int, int, int, int], int],\n                 vision_width: int,\n                 vision_patch_size: int,\n                 # text\n                 context_length: int,",
+        "detail": "clip.model",
+        "documentation": {}
+    },
+    {
+        "label": "convert_weights",
+        "kind": 2,
+        "importPath": "clip.model",
+        "description": "clip.model",
+        "peekOfCode": "def convert_weights(model: nn.Module):\n    \"\"\"Convert applicable model parameters to fp16\"\"\"\n    def _convert_weights_to_fp16(l):\n        if isinstance(l, (nn.Conv1d, nn.Conv2d, nn.Linear)):\n            l.weight.data = l.weight.data.half()\n            if l.bias is not None:\n                l.bias.data = l.bias.data.half()\n        if isinstance(l, nn.MultiheadAttention):\n            for attr in [*[f\"{s}_proj_weight\" for s in [\"in\", \"q\", \"k\", \"v\"]], \"in_proj_bias\", \"bias_k\", \"bias_v\"]:\n                tensor = getattr(l, attr)",
+        "detail": "clip.model",
+        "documentation": {}
+    },
+    {
+        "label": "build_model",
+        "kind": 2,
+        "importPath": "clip.model",
+        "description": "clip.model",
+        "peekOfCode": "def build_model(state_dict: dict):\n    vit = \"visual.proj\" in state_dict\n    if vit:\n        vision_width = state_dict[\"visual.conv1.weight\"].shape[0]\n        vision_layers = len([k for k in state_dict.keys() if k.startswith(\"visual.\") and k.endswith(\".attn.in_proj_weight\")])\n        vision_patch_size = state_dict[\"visual.conv1.weight\"].shape[-1]\n        grid_size = round((state_dict[\"visual.positional_embedding\"].shape[0] - 1) ** 0.5)\n        image_resolution = vision_patch_size * grid_size\n    else:\n        counts: list = [len(set(k.split(\".\")[2] for k in state_dict if k.startswith(f\"visual.layer{b}\"))) for b in [1, 2, 3, 4]]",
+        "detail": "clip.model",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleTokenizer",
+        "kind": 6,
+        "importPath": "clip.simple_tokenizer",
+        "description": "clip.simple_tokenizer",
+        "peekOfCode": "class SimpleTokenizer(object):\n    def __init__(self, bpe_path: str = default_bpe()):\n        self.byte_encoder = bytes_to_unicode()\n        self.byte_decoder = {v: k for k, v in self.byte_encoder.items()}\n        merges = gzip.open(bpe_path).read().decode(\"utf-8\").split('\\n')\n        merges = merges[1:49152-256-2+1]\n        merges = [tuple(merge.split()) for merge in merges]\n        vocab = list(bytes_to_unicode().values())\n        vocab = vocab + [v+'</w>' for v in vocab]\n        for merge in merges:",
+        "detail": "clip.simple_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "default_bpe",
+        "kind": 2,
+        "importPath": "clip.simple_tokenizer",
+        "description": "clip.simple_tokenizer",
+        "peekOfCode": "def default_bpe():\n    return os.path.join(os.path.dirname(os.path.abspath(__file__)), \"bpe_simple_vocab_16e6.txt.gz\")\n@lru_cache()\ndef bytes_to_unicode():\n    \"\"\"\n    Returns list of utf-8 byte and a corresponding list of unicode strings.\n    The reversible bpe codes work on unicode strings.\n    This means you need a large # of unicode characters in your vocab if you want to avoid UNKs.\n    When you're at something like a 10B token dataset you end up needing around 5K for decent coverage.\n    This is a signficant percentage of your normal, say, 32K bpe vocab.",
+        "detail": "clip.simple_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "bytes_to_unicode",
+        "kind": 2,
+        "importPath": "clip.simple_tokenizer",
+        "description": "clip.simple_tokenizer",
+        "peekOfCode": "def bytes_to_unicode():\n    \"\"\"\n    Returns list of utf-8 byte and a corresponding list of unicode strings.\n    The reversible bpe codes work on unicode strings.\n    This means you need a large # of unicode characters in your vocab if you want to avoid UNKs.\n    When you're at something like a 10B token dataset you end up needing around 5K for decent coverage.\n    This is a signficant percentage of your normal, say, 32K bpe vocab.\n    To avoid that, we want lookup tables between utf-8 bytes and unicode strings.\n    And avoids mapping to whitespace/control characters the bpe code barfs on.\n    \"\"\"",
+        "detail": "clip.simple_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "get_pairs",
+        "kind": 2,
+        "importPath": "clip.simple_tokenizer",
+        "description": "clip.simple_tokenizer",
+        "peekOfCode": "def get_pairs(word):\n    \"\"\"Return set of symbol pairs in a word.\n    Word is represented as tuple of symbols (symbols being variable-length strings).\n    \"\"\"\n    pairs = set()\n    prev_char = word[0]\n    for char in word[1:]:\n        pairs.add((prev_char, char))\n        prev_char = char\n    return pairs",
+        "detail": "clip.simple_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "basic_clean",
+        "kind": 2,
+        "importPath": "clip.simple_tokenizer",
+        "description": "clip.simple_tokenizer",
+        "peekOfCode": "def basic_clean(text):\n    text = ftfy.fix_text(text)\n    text = html.unescape(html.unescape(text))\n    return text.strip()\ndef whitespace_clean(text):\n    text = re.sub(r'\\s+', ' ', text)\n    text = text.strip()\n    return text\nclass SimpleTokenizer(object):\n    def __init__(self, bpe_path: str = default_bpe()):",
+        "detail": "clip.simple_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "whitespace_clean",
+        "kind": 2,
+        "importPath": "clip.simple_tokenizer",
+        "description": "clip.simple_tokenizer",
+        "peekOfCode": "def whitespace_clean(text):\n    text = re.sub(r'\\s+', ' ', text)\n    text = text.strip()\n    return text\nclass SimpleTokenizer(object):\n    def __init__(self, bpe_path: str = default_bpe()):\n        self.byte_encoder = bytes_to_unicode()\n        self.byte_decoder = {v: k for k, v in self.byte_encoder.items()}\n        merges = gzip.open(bpe_path).read().decode(\"utf-8\").split('\\n')\n        merges = merges[1:49152-256-2+1]",
+        "detail": "clip.simple_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "MyProj.learning.exercise_1_embeddings",
+        "description": "MyProj.learning.exercise_1_embeddings",
+        "peekOfCode": "device = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n# Listing the available models in the clip library\nprint(\"this is from clip lib\",clip.available_models())\n#print(\"this is from open_clip lib\", open_clip.list_pretrained())\n# TODO 3: Load CLIP model\n# Hint: For OpenAI CLIP, use: model, preprocess = clip.load(\"ViT-B/32\", device=device)\n# model, preprocess = ???\nmodel, preprocess = clip.load(\"ViT-B/32\", device = device)\nprint(type(model))\n# TODO 4: Load an X-ray image",
+        "detail": "MyProj.learning.exercise_1_embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "image_path",
+        "kind": 5,
+        "importPath": "MyProj.learning.exercise_1_embeddings",
+        "description": "MyProj.learning.exercise_1_embeddings",
+        "peekOfCode": "image_path = \"D:\\\\Self Projects\\\\CLIP-main\\\\CLIP-main\\\\MyProj\\\\finalData\\\\00000003_005.png\"\n# TODO 5: Preprocess the image\n# Hint: The preprocess function you loaded earlier does this\n# This converts PIL Image → PyTorch tensor with correct shape/normalization\n# image_tensor = ???\nimage = Image.open(image_path).convert(\"RGB\")\n# TODO 6: Add batch dimension\n# Hint: CLIP expects shape [batch_size, channels, height, width]\n# Use .unsqueeze(0) to add batch dimension\n# image_tensor = image_tensor.???",
+        "detail": "MyProj.learning.exercise_1_embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": "MyProj.learning.exercise_1_embeddings",
+        "description": "MyProj.learning.exercise_1_embeddings",
+        "peekOfCode": "image = Image.open(image_path).convert(\"RGB\")\n# TODO 6: Add batch dimension\n# Hint: CLIP expects shape [batch_size, channels, height, width]\n# Use .unsqueeze(0) to add batch dimension\n# image_tensor = image_tensor.???\nimage_tensor = preprocess(image).unsqueeze(0)\n# TODO 7: Move tensor to device\n# Hint: Use .to(device)\n# image_tensor = ???\nimage_tensor = image_tensor.to(device)",
+        "detail": "MyProj.learning.exercise_1_embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "image_tensor",
+        "kind": 5,
+        "importPath": "MyProj.learning.exercise_1_embeddings",
+        "description": "MyProj.learning.exercise_1_embeddings",
+        "peekOfCode": "image_tensor = preprocess(image).unsqueeze(0)\n# TODO 7: Move tensor to device\n# Hint: Use .to(device)\n# image_tensor = ???\nimage_tensor = image_tensor.to(device)\n# TODO 8: Extract image embedding (with no gradient computation)\n# Hint: Wrap in torch.no_grad() for efficiency\n# Use model.encode_image(image_tensor)\n# with torch.no_grad():\n#     image_embedding = ???",
+        "detail": "MyProj.learning.exercise_1_embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "image_tensor",
+        "kind": 5,
+        "importPath": "MyProj.learning.exercise_1_embeddings",
+        "description": "MyProj.learning.exercise_1_embeddings",
+        "peekOfCode": "image_tensor = image_tensor.to(device)\n# TODO 8: Extract image embedding (with no gradient computation)\n# Hint: Wrap in torch.no_grad() for efficiency\n# Use model.encode_image(image_tensor)\n# with torch.no_grad():\n#     image_embedding = ???\nwith torch.no_grad():\n    image_embedding = model.encode_image(image_tensor)\n# TODO 9: Print information about the embedding\nprint(\"=\" * 60)",
+        "detail": "MyProj.learning.exercise_1_embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "load_clip_model",
+        "kind": 2,
+        "importPath": "MyProj.batch_infer_5class",
+        "description": "MyProj.batch_infer_5class",
+        "peekOfCode": "def load_clip_model(device: str):\n    \"\"\"Load Standard CLIP model from local repository\"\"\"\n    import clip\n    model, preprocess = clip.load(\"ViT-B/32\", device=device)\n    print(f\"Loaded Standard CLIP model on {device}\")\n    return model, preprocess, clip.tokenize, \"openai-clip\"\ndef load_biomedclip_model(device: str):\n    \"\"\"Load medical-specialized BiomedCLIP model from HuggingFace\"\"\"\n    from open_clip import create_model_from_pretrained, get_tokenizer\n    print(\"Loading BiomedCLIP model from HuggingFace...\")",
+        "detail": "MyProj.batch_infer_5class",
+        "documentation": {}
+    },
+    {
+        "label": "load_biomedclip_model",
+        "kind": 2,
+        "importPath": "MyProj.batch_infer_5class",
+        "description": "MyProj.batch_infer_5class",
+        "peekOfCode": "def load_biomedclip_model(device: str):\n    \"\"\"Load medical-specialized BiomedCLIP model from HuggingFace\"\"\"\n    from open_clip import create_model_from_pretrained, get_tokenizer\n    print(\"Loading BiomedCLIP model from HuggingFace...\")\n    model, preprocess = create_model_from_pretrained(\n        'hf-hub:microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224'\n    )\n    tokenizer = get_tokenizer(\n        'hf-hub:microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224'\n    )",
+        "detail": "MyProj.batch_infer_5class",
+        "documentation": {}
+    },
+    {
+        "label": "predict_single_image",
+        "kind": 2,
+        "importPath": "MyProj.batch_infer_5class",
+        "description": "MyProj.batch_infer_5class",
+        "peekOfCode": "def predict_single_image(image_path: str, model, preprocess, tokenizer, backend: str, device: str) -> Tuple[str, float, List[float]]:\n    \"\"\"\n    Predict disease class for a single X-ray image using zero-shot CLIP.\n    Returns predicted class, confidence score, and probability for all classes.\n    \"\"\"\n    # Load and preprocess the image\n    image = Image.open(image_path).convert('RGB')\n    image_input = preprocess(image).unsqueeze(0).to(device)\n    # Process based on which CLIP backend we're using\n    if backend == \"openai-clip\":",
+        "detail": "MyProj.batch_infer_5class",
+        "documentation": {}
+    },
+    {
+        "label": "print_single_prediction",
+        "kind": 2,
+        "importPath": "MyProj.batch_infer_5class",
+        "description": "MyProj.batch_infer_5class",
+        "peekOfCode": "def print_single_prediction(image_path: str, predicted_class: str, confidence: float, \n                           probabilities: List[float], model_name: str):\n    \"\"\"Display prediction results for a single image\"\"\"\n    print(f\"\\n{'='*60}\")\n    print(f\"{model_name} - {os.path.basename(image_path)}\")\n    print(f\"Predicted: {predicted_class} (Confidence: {confidence*100:.2f}%)\")\n    print(f\"{'-'*60}\")\n    print(\"Probabilities for all classes:\")\n    for cls, prob in zip(SELECTED_CLASSES, probabilities):\n        bar = \"█\" * int(prob * 40)",
+        "detail": "MyProj.batch_infer_5class",
+        "documentation": {}
+    },
+    {
+        "label": "load_ground_truth",
+        "kind": 2,
+        "importPath": "MyProj.batch_infer_5class",
+        "description": "MyProj.batch_infer_5class",
+        "peekOfCode": "def load_ground_truth(labels_file: str) -> Dict[str, str]:\n    \"\"\"Load ground truth labels from file for evaluation\"\"\"\n    labels = {}\n    if not os.path.exists(labels_file):\n        return labels\n    with open(labels_file, 'r') as f:\n        for line in f:\n            line = line.strip()\n            # Skip empty lines and comments\n            if line and not line.startswith('#'):",
+        "detail": "MyProj.batch_infer_5class",
+        "documentation": {}
+    },
+    {
+        "label": "plot_confusion_matrix",
+        "kind": 2,
+        "importPath": "MyProj.batch_infer_5class",
+        "description": "MyProj.batch_infer_5class",
+        "peekOfCode": "def plot_confusion_matrix(y_true: List[str], y_pred: List[str], model_name: str, output_path: str):\n    \"\"\"Generate and save confusion matrix visualization\"\"\"\n    if not HAS_PLOTTING:\n        return\n    from sklearn.metrics import confusion_matrix\n    # Calculate confusion matrix\n    cm = confusion_matrix(y_true, y_pred, labels=SELECTED_CLASSES)\n    # Create heatmap\n    plt.figure(figsize=(10, 8))\n    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', ",
+        "detail": "MyProj.batch_infer_5class",
+        "documentation": {}
+    },
+    {
+        "label": "plot_predictions_comparison",
+        "kind": 2,
+        "importPath": "MyProj.batch_infer_5class",
+        "description": "MyProj.batch_infer_5class",
+        "peekOfCode": "def plot_predictions_comparison(y_true: List[str], y_pred: List[str], \n                                confidences: List[float], model_name: str, output_path: str):\n    \"\"\"\n    Create visualization comparing predictions to ground truth.\n    Shows scatter plot with connecting lines and confidence distribution.\n    \"\"\"\n    if not HAS_PLOTTING:\n        return\n    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 6))\n    # Convert class names to numbers for plotting",
+        "detail": "MyProj.batch_infer_5class",
+        "documentation": {}
+    },
+    {
+        "label": "batch_inference",
+        "kind": 2,
+        "importPath": "MyProj.batch_infer_5class",
+        "description": "MyProj.batch_infer_5class",
+        "peekOfCode": "def batch_inference(data_dir: str, labels_file: str, model, preprocess, tokenizer, \n                   backend: str, device: str, model_name: str):\n    \"\"\"Run inference on all images in the directory and evaluate results\"\"\"\n    # Get list of all image files\n    image_files = [f for f in os.listdir(data_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]\n    if not image_files:\n        print(f\"No images found in {data_dir}\")\n        return\n    print(f\"\\nProcessing {len(image_files)} images...\")\n    ground_truth = load_ground_truth(labels_file)",
+        "detail": "MyProj.batch_infer_5class",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "MyProj.batch_infer_5class",
+        "description": "MyProj.batch_infer_5class",
+        "peekOfCode": "def main():\n    \"\"\"Main function to handle command line arguments and run inference\"\"\"\n    parser = argparse.ArgumentParser(description='CLIP Chest X-ray Classification')\n    parser.add_argument('--image', help='Path to single image for inference')\n    parser.add_argument('--batch', action='store_true', help='Run batch inference on all images')\n    parser.add_argument('--data', default='finalData', help='Directory containing images')\n    parser.add_argument('--labels', default='finalData/image_labels.txt', help='Ground truth labels file')\n    parser.add_argument('--model', default='clip', choices=['clip', 'biomed'], help='Model: clip (standard) or biomed (medical)')\n    args = parser.parse_args()\n    # Check if user provided either single image or batch mode",
+        "detail": "MyProj.batch_infer_5class",
+        "documentation": {}
+    },
+    {
+        "label": "SELECTED_CLASSES",
+        "kind": 5,
+        "importPath": "MyProj.batch_infer_5class",
+        "description": "MyProj.batch_infer_5class",
+        "peekOfCode": "SELECTED_CLASSES = [\"Pneumonia\", \"Effusion\", \"Emphysema\", \"Fibrosis\", \"Hernia\"]\n# Text descriptions for zero-shot classification\nTEXT_PROMPTS = [\n    \"a chest X-ray showing pneumonia\",\n    \"a chest X-ray showing pleural effusion\", \n    \"a chest X-ray showing emphysema\",\n    \"a chest X-ray showing pulmonary fibrosis\",\n    \"a chest X-ray showing diaphragmatic hernia\"\n]\ndef load_clip_model(device: str):",
+        "detail": "MyProj.batch_infer_5class",
+        "documentation": {}
+    },
+    {
+        "label": "TEXT_PROMPTS",
+        "kind": 5,
+        "importPath": "MyProj.batch_infer_5class",
+        "description": "MyProj.batch_infer_5class",
+        "peekOfCode": "TEXT_PROMPTS = [\n    \"a chest X-ray showing pneumonia\",\n    \"a chest X-ray showing pleural effusion\", \n    \"a chest X-ray showing emphysema\",\n    \"a chest X-ray showing pulmonary fibrosis\",\n    \"a chest X-ray showing diaphragmatic hernia\"\n]\ndef load_clip_model(device: str):\n    \"\"\"Load Standard CLIP model from local repository\"\"\"\n    import clip",
+        "detail": "MyProj.batch_infer_5class",
+        "documentation": {}
+    },
+    {
+        "label": "load_biomedclip_model",
+        "kind": 2,
+        "importPath": "MyProj.biomedclip_5class",
+        "description": "MyProj.biomedclip_5class",
+        "peekOfCode": "def load_biomedclip_model():\n    \"\"\"\n    Load BiomedCLIP model from Hugging Face.\n    This is a specialized version of CLIP trained on medical images.\n    Note: First run will download the model (may take a few minutes)\n    \"\"\"\n    print(\"\\nLoading BiomedCLIP model from Microsoft...\")\n    print(\"This may take a moment on first run (downloading model)...\")\n    try:\n        model, preprocess = create_model_from_pretrained(",
+        "detail": "MyProj.biomedclip_5class",
+        "documentation": {}
+    },
+    {
+        "label": "predict_xray",
+        "kind": 2,
+        "importPath": "MyProj.biomedclip_5class",
+        "description": "MyProj.biomedclip_5class",
+        "peekOfCode": "def predict_xray(image_path, model, preprocess, tokenizer, top_k=5):\n    \"\"\"\n    Predict disease class for a chest X-ray using BiomedCLIP.\n    How it works:\n    1. Load and preprocess the X-ray image\n    2. Convert text descriptions to embeddings using medical tokenizer\n    3. Compare image similarity to each text description\n    4. Return the most similar diseases with confidence scores\n    Args:\n        image_path: Path to the X-ray image file",
+        "detail": "MyProj.biomedclip_5class",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "MyProj.biomedclip_5class",
+        "description": "MyProj.biomedclip_5class",
+        "peekOfCode": "def main():\n    \"\"\"Main function to handle command line usage\"\"\"\n    print(\"\\nBiomedCLIP - Chest X-ray Classifier\")\n    print(\"=\" * 70)\n    print(\"Classes: Pneumonia, Effusion, Emphysema, Fibrosis, Hernia\")\n    print(\"Method: Zero-shot classification with medical-specialized model\")\n    print(\"=\" * 70)\n    # Get image path from command line or use sample\n    if len(sys.argv) < 2:\n        print(\"\\nUsage: python biomedclip_5class.py <path_to_xray_image>\")",
+        "detail": "MyProj.biomedclip_5class",
+        "documentation": {}
+    },
+    {
+        "label": "SELECTED_CLASSES",
+        "kind": 5,
+        "importPath": "MyProj.biomedclip_5class",
+        "description": "MyProj.biomedclip_5class",
+        "peekOfCode": "SELECTED_CLASSES = [\"Pneumonia\", \"Effusion\", \"Emphysema\", \"Fibrosis\", \"Hernia\"]\n# Text descriptions for zero-shot classification\n# BiomedCLIP was trained on medical images, so simpler prompts work well\ntext_descriptions = [\n    \"chest X-ray showing pneumonia\",\n    \"chest X-ray showing pleural effusion\",\n    \"chest X-ray showing emphysema\",\n    \"chest X-ray showing pulmonary fibrosis\",\n    \"chest X-ray showing diaphragmatic hernia\"\n]",
+        "detail": "MyProj.biomedclip_5class",
+        "documentation": {}
+    },
+    {
+        "label": "text_descriptions",
+        "kind": 5,
+        "importPath": "MyProj.biomedclip_5class",
+        "description": "MyProj.biomedclip_5class",
+        "peekOfCode": "text_descriptions = [\n    \"chest X-ray showing pneumonia\",\n    \"chest X-ray showing pleural effusion\",\n    \"chest X-ray showing emphysema\",\n    \"chest X-ray showing pulmonary fibrosis\",\n    \"chest X-ray showing diaphragmatic hernia\"\n]\ndef load_biomedclip_model():\n    \"\"\"\n    Load BiomedCLIP model from Hugging Face.",
+        "detail": "MyProj.biomedclip_5class",
+        "documentation": {}
+    },
+    {
+        "label": "load_clip_model",
+        "kind": 2,
+        "importPath": "MyProj.classify_5class",
+        "description": "MyProj.classify_5class",
+        "peekOfCode": "def load_clip_model(device: str = None):\n    \"\"\"\n    Load Standard CLIP model from local repository.\n    Uses the CLIP code in the parent directory instead of an installed package.\n    \"\"\"\n    if device is None:\n        device = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n    model, preprocess = clip.load(\"ViT-B/32\", device=device)\n    print(f\"Loaded Standard CLIP model on {device}\")\n    return model, preprocess, clip.tokenize, device",
+        "detail": "MyProj.classify_5class",
+        "documentation": {}
+    },
+    {
+        "label": "predict_xray",
+        "kind": 2,
+        "importPath": "MyProj.classify_5class",
+        "description": "MyProj.classify_5class",
+        "peekOfCode": "def predict_xray(image_path: str, model, preprocess, tokenizer, device: str, top_k: int = 5) -> List[Tuple[str, float]]:\n    \"\"\"\n    Predict disease class for a chest X-ray using CLIP.\n    How it works:\n    1. Load and preprocess the X-ray image\n    2. Convert text descriptions to embeddings\n    3. Compare image similarity to each text description\n    4. Return the most similar diseases with confidence scores\n    Args:\n        image_path: Path to the X-ray image file",
+        "detail": "MyProj.classify_5class",
+        "documentation": {}
+    },
+    {
+        "label": "format_results",
+        "kind": 2,
+        "importPath": "MyProj.classify_5class",
+        "description": "MyProj.classify_5class",
+        "peekOfCode": "def format_results(results: List[Tuple[str, float]], image_path: str) -> str:\n    \"\"\"Format prediction results for clean display\"\"\"\n    lines = []\n    lines.append(\"=\" * 70)\n    lines.append(\"PREDICTIONS\")\n    lines.append(\"=\" * 70)\n    for rank, (class_name, prob) in enumerate(results, 1):\n        # Create a simple progress bar\n        bar = \"█\" * int(prob * 40)\n        lines.append(f\"{rank}. {class_name:15s}: {prob*100:6.2f}% {bar}\")",
+        "detail": "MyProj.classify_5class",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "MyProj.classify_5class",
+        "description": "MyProj.classify_5class",
+        "peekOfCode": "def main():\n    \"\"\"Main function to handle command line usage\"\"\"\n    print(\"\\nStandard CLIP - Chest X-ray Classifier\")\n    print(\"=\" * 70)\n    print(\"Classes: Pneumonia, Effusion, Emphysema, Fibrosis, Hernia\")\n    print(\"Method: Zero-shot classification with medical prompts\")\n    print(\"=\" * 70)\n    # Get image path from command line or use sample\n    if len(sys.argv) < 2:\n        print(\"\\nUsage: python classify_5class.py <path_to_xray_image>\")",
+        "detail": "MyProj.classify_5class",
+        "documentation": {}
+    },
+    {
+        "label": "SELECTED_CLASSES",
+        "kind": 5,
+        "importPath": "MyProj.classify_5class",
+        "description": "MyProj.classify_5class",
+        "peekOfCode": "SELECTED_CLASSES = [\"Pneumonia\", \"Effusion\", \"Emphysema\", \"Fibrosis\", \"Hernia\"]\n# Text descriptions for zero-shot classification\n# Adding medical context helps CLIP understand what to look for\nTEXT_PROMPTS = [\n    \"a chest X-ray showing pneumonia\",\n    \"a chest X-ray showing pleural effusion\", \n    \"a chest X-ray showing emphysema\",\n    \"a chest X-ray showing pulmonary fibrosis\",\n    \"a chest X-ray showing diaphragmatic hernia\"\n]",
+        "detail": "MyProj.classify_5class",
+        "documentation": {}
+    },
+    {
+        "label": "TEXT_PROMPTS",
+        "kind": 5,
+        "importPath": "MyProj.classify_5class",
+        "description": "MyProj.classify_5class",
+        "peekOfCode": "TEXT_PROMPTS = [\n    \"a chest X-ray showing pneumonia\",\n    \"a chest X-ray showing pleural effusion\", \n    \"a chest X-ray showing emphysema\",\n    \"a chest X-ray showing pulmonary fibrosis\",\n    \"a chest X-ray showing diaphragmatic hernia\"\n]\ndef load_clip_model(device: str = None):\n    \"\"\"\n    Load Standard CLIP model from local repository.",
+        "detail": "MyProj.classify_5class",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": "MyProj.confusion_matrix_analysis",
+        "description": "MyProj.confusion_matrix_analysis",
+        "peekOfCode": "def calculate_metrics(cm, model_name):\n    \"\"\"Calculate accuracy, precision, recall, and F1-score from confusion matrix\"\"\"\n    print(f\"\\n{'='*70}\")\n    print(f\"Metrics for {model_name}\")\n    print(f\"{'='*70}\\n\")\n    # Overall Accuracy\n    correct = np.trace(cm)\n    total = np.sum(cm)\n    accuracy = correct / total * 100\n    print(f\"Overall Accuracy: {accuracy:.2f}%\")",
+        "detail": "MyProj.confusion_matrix_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "biomedclip_cm",
+        "kind": 5,
+        "importPath": "MyProj.confusion_matrix_analysis",
+        "description": "MyProj.confusion_matrix_analysis",
+        "peekOfCode": "biomedclip_cm = np.array([\n    [22, 7, 57, 30, 34],   # Pneumonia\n    [5, 81, 22, 8, 34],    # Effusion\n    [17, 10, 80, 8, 35],   # Emphysema\n    [4, 4, 91, 19, 32],    # Fibrosis\n    [7, 5, 68, 2, 68]      # Hernia\n])\n# Confusion Matrix - Standard CLIP\nstandard_clip_cm = np.array([\n    [141, 2, 0, 0, 7],     # Pneumonia",
+        "detail": "MyProj.confusion_matrix_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "standard_clip_cm",
+        "kind": 5,
+        "importPath": "MyProj.confusion_matrix_analysis",
+        "description": "MyProj.confusion_matrix_analysis",
+        "peekOfCode": "standard_clip_cm = np.array([\n    [141, 2, 0, 0, 7],     # Pneumonia\n    [141, 5, 0, 0, 4],     # Effusion\n    [139, 2, 0, 0, 9],     # Emphysema\n    [144, 0, 0, 0, 6],     # Fibrosis\n    [144, 2, 0, 0, 4]      # Hernia\n])\nclasses = ['Pneumonia', 'Effusion', 'Emphysema', 'Fibrosis', 'Hernia']\ndef calculate_metrics(cm, model_name):\n    \"\"\"Calculate accuracy, precision, recall, and F1-score from confusion matrix\"\"\"",
+        "detail": "MyProj.confusion_matrix_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "classes",
+        "kind": 5,
+        "importPath": "MyProj.confusion_matrix_analysis",
+        "description": "MyProj.confusion_matrix_analysis",
+        "peekOfCode": "classes = ['Pneumonia', 'Effusion', 'Emphysema', 'Fibrosis', 'Hernia']\ndef calculate_metrics(cm, model_name):\n    \"\"\"Calculate accuracy, precision, recall, and F1-score from confusion matrix\"\"\"\n    print(f\"\\n{'='*70}\")\n    print(f\"Metrics for {model_name}\")\n    print(f\"{'='*70}\\n\")\n    # Overall Accuracy\n    correct = np.trace(cm)\n    total = np.sum(cm)\n    accuracy = correct / total * 100",
+        "detail": "MyProj.confusion_matrix_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "biomedclip_acc",
+        "kind": 5,
+        "importPath": "MyProj.confusion_matrix_analysis",
+        "description": "MyProj.confusion_matrix_analysis",
+        "peekOfCode": "biomedclip_acc = np.trace(biomedclip_cm) / np.sum(biomedclip_cm) * 100\nstandard_acc = np.trace(standard_clip_cm) / np.sum(standard_clip_cm) * 100\nprint(f\"Model Comparison:\")\nprint(f\"  BiomedCLIP Accuracy:     {biomedclip_acc:.2f}%\")\nprint(f\"  Standard CLIP Accuracy:  {standard_acc:.2f}%\")\nprint(f\"  Difference:              {biomedclip_acc - standard_acc:+.2f}%\")\nprint(f\"\\nKey Observation:\")\nif biomedclip_acc > standard_acc:\n    print(f\"  BiomedCLIP performs {biomedclip_acc - standard_acc:.1f}% better than Standard CLIP\")\n    print(f\"  This confirms that medical-specialized training improves performance\")",
+        "detail": "MyProj.confusion_matrix_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "standard_acc",
+        "kind": 5,
+        "importPath": "MyProj.confusion_matrix_analysis",
+        "description": "MyProj.confusion_matrix_analysis",
+        "peekOfCode": "standard_acc = np.trace(standard_clip_cm) / np.sum(standard_clip_cm) * 100\nprint(f\"Model Comparison:\")\nprint(f\"  BiomedCLIP Accuracy:     {biomedclip_acc:.2f}%\")\nprint(f\"  Standard CLIP Accuracy:  {standard_acc:.2f}%\")\nprint(f\"  Difference:              {biomedclip_acc - standard_acc:+.2f}%\")\nprint(f\"\\nKey Observation:\")\nif biomedclip_acc > standard_acc:\n    print(f\"  BiomedCLIP performs {biomedclip_acc - standard_acc:.1f}% better than Standard CLIP\")\n    print(f\"  This confirms that medical-specialized training improves performance\")\nelse:",
+        "detail": "MyProj.confusion_matrix_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "MyProj.data_analysis",
+        "description": "MyProj.data_analysis",
+        "peekOfCode": "def load_data(file_path):\n    \"\"\"Load the dataset from CSV file\"\"\"\n    print(\"Loading dataset...\")\n    df = pd.read_csv(file_path)\n    print(f\"Dataset loaded successfully with {len(df)} records\\n\")\n    return df\ndef basic_info(df):\n    \"\"\"Display basic information about the dataset\"\"\"\n    print(\"=\"*80)\n    print(\"BASIC DATASET INFORMATION\")",
+        "detail": "MyProj.data_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "basic_info",
+        "kind": 2,
+        "importPath": "MyProj.data_analysis",
+        "description": "MyProj.data_analysis",
+        "peekOfCode": "def basic_info(df):\n    \"\"\"Display basic information about the dataset\"\"\"\n    print(\"=\"*80)\n    print(\"BASIC DATASET INFORMATION\")\n    print(\"=\"*80)\n    print(f\"\\nDataset Shape: {df.shape}\")\n    print(f\"Number of Images: {df.shape[0]:,}\")\n    print(f\"Number of Features: {df.shape[1]}\")\n    print(\"\\nColumn Names and Types:\")\n    print(df.dtypes)",
+        "detail": "MyProj.data_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_findings",
+        "kind": 2,
+        "importPath": "MyProj.data_analysis",
+        "description": "MyProj.data_analysis",
+        "peekOfCode": "def analyze_findings(df):\n    \"\"\"Analyze disease findings in the dataset\"\"\"\n    print(\"=\"*80)\n    print(\"DISEASE FINDINGS ANALYSIS\")\n    print(\"=\"*80)\n    # Split findings and count each disease\n    all_findings = []\n    for findings in df['Finding Labels']:\n        diseases = findings.split('|')\n        all_findings.extend(diseases)",
+        "detail": "MyProj.data_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_patients",
+        "kind": 2,
+        "importPath": "MyProj.data_analysis",
+        "description": "MyProj.data_analysis",
+        "peekOfCode": "def analyze_patients(df):\n    \"\"\"Analyze patient demographics\"\"\"\n    print(\"\\n\" + \"=\"*80)\n    print(\"PATIENT DEMOGRAPHICS\")\n    print(\"=\"*80)\n    print(f\"\\nTotal Unique Patients: {df['Patient ID'].nunique():,}\")\n    print(f\"Average Images per Patient: {len(df) / df['Patient ID'].nunique():.2f}\")\n    # Age analysis\n    print(\"\\nAge Statistics:\")\n    print(f\"  Mean Age: {df['Patient Age'].mean():.1f} years\")",
+        "detail": "MyProj.data_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_comorbidities",
+        "kind": 2,
+        "importPath": "MyProj.data_analysis",
+        "description": "MyProj.data_analysis",
+        "peekOfCode": "def analyze_comorbidities(df):\n    \"\"\"Analyze co-occurring diseases\"\"\"\n    print(\"\\n\" + \"=\"*80)\n    print(\"CO-MORBIDITY ANALYSIS\")\n    print(\"=\"*80)\n    # Count number of findings per image\n    df['Finding Count'] = df['Finding Labels'].apply(lambda x: len(x.split('|')))\n    print(\"\\nNumber of Findings per Image:\")\n    finding_dist = df['Finding Count'].value_counts().sort_index()\n    for count, freq in finding_dist.items():",
+        "detail": "MyProj.data_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_image_properties",
+        "kind": 2,
+        "importPath": "MyProj.data_analysis",
+        "description": "MyProj.data_analysis",
+        "peekOfCode": "def analyze_image_properties(df):\n    \"\"\"Analyze image dimensions and properties\"\"\"\n    print(\"\\n\" + \"=\"*80)\n    print(\"IMAGE PROPERTIES ANALYSIS\")\n    print(\"=\"*80)\n    # Extract width and height (they appear to be in the column names)\n    # The format seems to be: OriginalImage[Width,Height]\n    print(\"\\nImage dimension analysis would require parsing the specific columns.\")\n    print(\"Based on the data structure, images have varying dimensions.\")\n    # View Position analysis",
+        "detail": "MyProj.data_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "generate_summary_report",
+        "kind": 2,
+        "importPath": "MyProj.data_analysis",
+        "description": "MyProj.data_analysis",
+        "peekOfCode": "def generate_summary_report(df, finding_counts):\n    \"\"\"Generate a comprehensive summary report\"\"\"\n    print(\"\\n\" + \"=\"*80)\n    print(\"SUMMARY REPORT\")\n    print(\"=\"*80)\n    print(f\"\"\"\nDataset Overview:\n-----------------\n• Total Images: {len(df):,}\n• Unique Patients: {df['Patient ID'].nunique():,}",
+        "detail": "MyProj.data_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "MyProj.data_analysis",
+        "description": "MyProj.data_analysis",
+        "peekOfCode": "def main():\n    \"\"\"Main function to run all analyses\"\"\"\n    print(\"\\n\" + \"=\"*80)\n    print(\"NIH CHEST X-RAY DATASET - COMPREHENSIVE DATA ANALYSIS\")\n    print(\"=\"*80 + \"\\n\")\n    # Load data\n    csv_path = 'Data_Entry_2017.csv'\n    df = load_data(csv_path)\n    # Run all analyses\n    basic_info(df)",
+        "detail": "MyProj.data_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "plt.rcParams['figure.figsize']",
+        "kind": 5,
+        "importPath": "MyProj.data_analysis",
+        "description": "MyProj.data_analysis",
+        "peekOfCode": "plt.rcParams['figure.figsize'] = (12, 6)\ndef load_data(file_path):\n    \"\"\"Load the dataset from CSV file\"\"\"\n    print(\"Loading dataset...\")\n    df = pd.read_csv(file_path)\n    print(f\"Dataset loaded successfully with {len(df)} records\\n\")\n    return df\ndef basic_info(df):\n    \"\"\"Display basic information about the dataset\"\"\"\n    print(\"=\"*80)",
+        "detail": "MyProj.data_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": "MyProj.metrics_analysis",
+        "description": "MyProj.metrics_analysis",
+        "peekOfCode": "def calculate_metrics(y_true: List[str], y_pred: List[str], class_names: List[str] = None) -> Dict:\n    \"\"\"\n    Calculate classification metrics from true and predicted labels.\n    Args:\n        y_true: List of true labels\n        y_pred: List of predicted labels\n        class_names: List of class names (default: SELECTED_CLASSES)\n    Returns:\n        Dictionary containing accuracy, precision, recall, F1-score, and confusion matrix\n    \"\"\"",
+        "detail": "MyProj.metrics_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "print_metrics",
+        "kind": 2,
+        "importPath": "MyProj.metrics_analysis",
+        "description": "MyProj.metrics_analysis",
+        "peekOfCode": "def print_metrics(metrics: Dict, model_name: str = \"Model\"):\n    \"\"\"\n    Print metrics in a readable format.\n    Args:\n        metrics: Metrics dictionary from calculate_metrics()\n        model_name: Name of the model (for display)\n    \"\"\"\n    print(\"\\n\" + \"=\" * 80)\n    print(f\"📊 EVALUATION METRICS - {model_name}\")\n    print(\"=\" * 80)",
+        "detail": "MyProj.metrics_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "save_metrics",
+        "kind": 2,
+        "importPath": "MyProj.metrics_analysis",
+        "description": "MyProj.metrics_analysis",
+        "peekOfCode": "def save_metrics(metrics: Dict, output_path: str):\n    \"\"\"\n    Save metrics to a JSON file.\n    Args:\n        metrics: Metrics dictionary from calculate_metrics()\n        output_path: Path to save JSON file\n    \"\"\"\n    import json\n    with open(output_path, 'w', encoding='utf-8') as f:\n        json.dump(metrics, f, indent=2)",
+        "detail": "MyProj.metrics_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "SELECTED_CLASSES",
+        "kind": 5,
+        "importPath": "MyProj.metrics_analysis",
+        "description": "MyProj.metrics_analysis",
+        "peekOfCode": "SELECTED_CLASSES = [\"Pneumonia\", \"Effusion\", \"Emphysema\", \"Fibrosis\", \"Hernia\"]\ndef calculate_metrics(y_true: List[str], y_pred: List[str], class_names: List[str] = None) -> Dict:\n    \"\"\"\n    Calculate classification metrics from true and predicted labels.\n    Args:\n        y_true: List of true labels\n        y_pred: List of predicted labels\n        class_names: List of class names (default: SELECTED_CLASSES)\n    Returns:\n        Dictionary containing accuracy, precision, recall, F1-score, and confusion matrix",
+        "detail": "MyProj.metrics_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "test_consistency",
+        "kind": 2,
+        "importPath": "tests.test_consistency",
+        "description": "tests.test_consistency",
+        "peekOfCode": "def test_consistency(model_name):\n    device = \"cpu\"\n    jit_model, transform = clip.load(model_name, device=device, jit=True)\n    py_model, _ = clip.load(model_name, device=device, jit=False)\n    image = transform(Image.open(\"CLIP.png\")).unsqueeze(0).to(device)\n    text = clip.tokenize([\"a diagram\", \"a dog\", \"a cat\"]).to(device)\n    with torch.no_grad():\n        logits_per_image, _ = jit_model(image, text)\n        jit_probs = logits_per_image.softmax(dim=-1).cpu().numpy()\n        logits_per_image, _ = py_model(image, text)",
+        "detail": "tests.test_consistency",
+        "documentation": {}
+    },
+    {
+        "label": "tokenize",
+        "kind": 2,
+        "importPath": "hubconf",
+        "description": "hubconf",
+        "peekOfCode": "def tokenize():\n    return _tokenize\n_entrypoints = {model_functions[model]: _create_hub_entrypoint(model) for model in _available_models()}\nglobals().update(_entrypoints)",
+        "detail": "hubconf",
+        "documentation": {}
+    },
+    {
+        "label": "dependencies",
+        "kind": 5,
+        "importPath": "hubconf",
+        "description": "hubconf",
+        "peekOfCode": "dependencies = [\"torch\", \"torchvision\", \"ftfy\", \"regex\", \"tqdm\"]\n# For compatibility (cannot include special characters in function name)\nmodel_functions = { model: re.sub(f'[{string.punctuation}]', '_', model) for model in _available_models()}\ndef _create_hub_entrypoint(model):\n    def entrypoint(**kwargs):      \n        return _load(model, **kwargs)\n    entrypoint.__doc__ = f\"\"\"Loads the {model} CLIP model\n        Parameters\n        ----------\n        device : Union[str, torch.device]",
+        "detail": "hubconf",
+        "documentation": {}
+    },
+    {
+        "label": "model_functions",
+        "kind": 5,
+        "importPath": "hubconf",
+        "description": "hubconf",
+        "peekOfCode": "model_functions = { model: re.sub(f'[{string.punctuation}]', '_', model) for model in _available_models()}\ndef _create_hub_entrypoint(model):\n    def entrypoint(**kwargs):      \n        return _load(model, **kwargs)\n    entrypoint.__doc__ = f\"\"\"Loads the {model} CLIP model\n        Parameters\n        ----------\n        device : Union[str, torch.device]\n            The device to put the loaded model\n        jit : bool",
+        "detail": "hubconf",
+        "documentation": {}
+    },
+    {
+        "label": "_entrypoints",
+        "kind": 5,
+        "importPath": "hubconf",
+        "description": "hubconf",
+        "peekOfCode": "_entrypoints = {model_functions[model]: _create_hub_entrypoint(model) for model in _available_models()}\nglobals().update(_entrypoints)",
+        "detail": "hubconf",
+        "documentation": {}
+    }
+]
