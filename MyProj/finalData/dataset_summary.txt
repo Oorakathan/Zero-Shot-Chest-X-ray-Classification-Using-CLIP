@@ -1,0 +1,67 @@
+================================================================================
+CLIP TRAINING DATASET SUMMARY
+================================================================================
+
+Selected Classes: 5
+Images per Class Target: 150
+Total Images Collected: 750
+
+Class Breakdown:
+--------------------------------------------------------------------------------
+
+Pneumonia:
+  Images collected: 150
+  Sample files:
+    - 00000032_012.png
+    - 00000056_000.png
+    - 00000061_015.png
+    - 00000144_001.png
+    - 00000150_002.png
+    ... and 145 more
+
+Effusion:
+  Images collected: 150
+  Sample files:
+    - 00000001_002.png
+    - 00000005_007.png
+    - 00000011_000.png
+    - 00000012_000.png
+    - 00000013_004.png
+    ... and 145 more
+
+Emphysema:
+  Images collected: 150
+  Sample files:
+    - 00000001_001.png
+    - 00000009_000.png
+    - 00000013_001.png
+    - 00000013_002.png
+    - 00000013_005.png
+    ... and 145 more
+
+Fibrosis:
+  Images collected: 150
+  Sample files:
+    - 00000020_001.png
+    - 00000020_002.png
+    - 00000022_001.png
+    - 00000024_000.png
+    - 00000033_000.png
+    ... and 145 more
+
+Hernia:
+  Images collected: 150
+  Sample files:
+    - 00000003_000.png
+    - 00000003_001.png
+    - 00000003_002.png
+    - 00000003_003.png
+    - 00000003_004.png
+    ... and 145 more
+
+================================================================================
+Files Generated:
+--------------------------------------------------------------------------------
+1. image_labels.txt - Mapping of image names to class labels
+2. dataset_summary.txt - This summary file
+3. All image files in the finalData folder
