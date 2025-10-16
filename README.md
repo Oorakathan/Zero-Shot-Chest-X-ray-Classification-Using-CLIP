@@ -34,16 +34,12 @@ MyProj/
 
 It's highly recommended to use a virtual environment to avoid dependency conflicts:
 
-**Windows (PowerShell):**
-```powershell
-python -m venv venv
-.\venv\Scripts\Activate.ps1
-```
+
 
 **Windows (Command Prompt):**
 ```cmd
 python -m venv venv
-venv\Scripts\activate.bat
+venv\Scripts\activate
 ```
 
 **Linux/Mac:**
@@ -414,3 +410,4 @@ BiomedCLIP does better because it was trained on medical images specifically.
 - Standard CLIP wasn't trained on medical images (hence BiomedCLIP performs better)
 
 ---
+
