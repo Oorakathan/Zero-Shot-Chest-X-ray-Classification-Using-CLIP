@@ -30,15 +30,37 @@ MyProj/
 
 ## Setup
 
-### Navigate to Project Directory
+### Step 1: Create Virtual Environment (Recommended)
 
-**Important**: All project files and scripts are located in the `MyProj` directory. Before running any commands, navigate to this directory:
+It's highly recommended to use a virtual environment to avoid dependency conflicts:
+
+**Windows (PowerShell):**
+```powershell
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+```
+
+**Windows (Command Prompt):**
+```cmd
+python -m venv venv
+venv\Scripts\activate.bat
+```
+
+**Linux/Mac:**
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### Step 2: Navigate to Project Directory
+
+**Important**: All project files and scripts are located in the `MyProj` directory. After activating your virtual environment, navigate to this directory:
 
 ```bash
 cd MyProj
 ```
 
-All subsequent commands in this README should be run from the `MyProj` directory.
+All subsequent commands in this README should be run from the `MyProj` directory with your virtual environment activated.
 
 ---
 
